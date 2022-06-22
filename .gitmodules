@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SSVS"]
+	path = SSVS
+	url = https://github.com/sabainter/ssvs
+	shallow = true
+	registered = true
